@@ -30,3 +30,4 @@ https://www.youtube.com/watch?v=gzIcGhJC8hA
 
 <img src="https://user-images.githubusercontent.com/7610065/173230346-d790227e-764e-4716-9bb4-0c44c8cfebf6.png" width="500" height="250">
 
+https://serverfault.com/questions/723121/how-does-nginx-websocket-proxy-work
