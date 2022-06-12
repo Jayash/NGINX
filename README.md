@@ -32,6 +32,8 @@ https://www.youtube.com/watch?v=gzIcGhJC8hA
 
 https://serverfault.com/questions/723121/how-does-nginx-websocket-proxy-work
 
+## Proxy vs Reverse Proxy
+
 <img src="https://user-images.githubusercontent.com/7610065/173232079-8d1a02fe-19ee-4652-8f33-0298fd715ffb.png" width="500" height="250">
 
 <img src="https://user-images.githubusercontent.com/7610065/173232194-ffd867e3-81cd-4fa7-b4cb-5d02badc66d1.png" width="500" height="250">
